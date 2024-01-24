@@ -1,2 +1,4 @@
 # week_2_Day1
-Arrays in java 23/01/2024
+ 23/01/2024
+ Arrays in java.
+ Understood lots of techniques in array.
